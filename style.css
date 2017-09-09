@@ -1,0 +1,47 @@
+@font-face {
+	font-family: "Eau";
+    src: url("fonts/eau_sans_book_lng.otf");
+}
+@font-face {
+	font-family: "Matiz";
+	src: url("fonts/Matiz.ttf");
+}
+
+body {
+	font-family: "Eau";
+	background: #180951;	
+}
+
+p {
+	color: #ffffff;
+}
+
+.row {
+	width: 50%;
+	margin: 42px auto;
+}
+
+.container {
+	width: 100%;
+	padding: 42px 0;
+}
+
+.about {
+	background-image:
+		linear-gradient(
+		#1A0092, #500099
+		);
+	padding: 84px 0;
+}
+.cap-col {
+	padding: 0 42px;
+}
+
+.cap-col h2 {
+	font-family: "Matiz";
+	color: #FF679F;
+	text-transform: uppercase;
+}
+h1 {
+  font-family: Matiz;
+}
