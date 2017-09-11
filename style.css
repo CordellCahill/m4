@@ -43,5 +43,38 @@ p {
 	text-transform: uppercase;
 }
 h1 {
-  font-family: Matiz;
+  font-family: "Matiz";
+}
+
+
+.footer-stuff {
+	text-align: center;
+	background-color: #180951;	
+	border-style: none;
+	min-height: 40px;
+}
+
+.footer-stuff h4 {
+	font-family: "Matiz";
+	color: #ffffff;
+}
+
+
+.team-member {
+  text-align: center;
+  margin-bottom: 50px; 
+}
+.team-member img {
+    height: 225px;
+    width: 100%;
+    border: 7px solid white; 
+}
+.team-member h4 {
+	font-family: Matiz;
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none; 
+}
+.team-member p {
+    margin-top: 0; 
 }
